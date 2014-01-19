@@ -1,4 +1,0 @@
-mywork
-======
-
-learning ruby
